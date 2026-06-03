@@ -18,10 +18,8 @@ This repository contains my solutions to NeetCode and interview preparation prob
 * SQL
 
 ## Languages Used
-
 * C++
-* Java
-* SQL
+
 
 ## Goal
 
